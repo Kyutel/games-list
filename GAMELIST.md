@@ -1,7 +1,7 @@
 # Game List
 
-games marked with `*` are ones I have already played but wouldnt mind replaying  
-games with [x], x is the number of players  
+`*` = Already played, but don't mind replaying
+[x] = Number of players
 
 ## Games I own
 
