@@ -11,6 +11,7 @@ It's corona virus time for the next 4-6 months. Time to ~GeT DigITaL~
 If ping good enough
 * Alien Isolation
 * Amnesia
+
 Horror games in general seem like a fun option here
 
 #### – Free to Play –
@@ -26,5 +27,5 @@ Horror games in general seem like a fun option here
 * Stardew Valley
 * Terraria
 * Risk of Rain 2
-* Civ V/VII
+* Civ V/VI
 * Sea of Thieves
